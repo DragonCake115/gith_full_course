@@ -1,1 +1,3 @@
-console.log("Helllo Git");
+function greet(){
+  console.log("Helllo from the main branch");
+}
